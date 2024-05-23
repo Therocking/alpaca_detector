@@ -1,0 +1,8 @@
+
+path: C:\Users\Jose A. Genao\OneDrive\Escritorio\Practicas\ia-102\object_detection_clasification\data
+train: images\train
+val: images\train
+
+# Classes
+names:
+  0: alpaca

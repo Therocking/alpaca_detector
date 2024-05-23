@@ -1,0 +1,5 @@
+# Significado de los numeros en las imgs clasificadas
+
+
+0 0.601250 0.725833 0.440000 0.228333
+El primer numero es el tag y los demas son las dimensiones de las caja
